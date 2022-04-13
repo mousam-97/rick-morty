@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 80px;
+  background-color: rgb(177, 78, 177);
+}
+
+.logo {
+  color: white;
+  margin: 10px;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.logo:hover {
+  cursor: pointer;
+  color: yellow;
+}
+
+.link {
+    text-decoration: none;
+}
+
+
